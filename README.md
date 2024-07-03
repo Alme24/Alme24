@@ -1,9 +1,11 @@
+
+
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi,+There!+👋;+I'm+Jael!" />
 </a>
 </p>
-<picture></picture>
+<image  alt="GIF" align="center"src = "https://github.com/Alme24/Alme24/blob/main/Newsfeed.gif" style="width: 200px; height: auto;"/>
 <pre>
 🏫 I am pursuing a degree in Systems Engineering at the Mayor de San Simon University. 
 👩‍💻 I'm a Backend Developer, but I am actively learning Frontend Technologies to transition into a Fullstack Developer role.
