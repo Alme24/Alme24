@@ -1,9 +1,7 @@
-
-
 <p align="center">
-<a href="https://git.io/typing-svg">
+<h1 href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi,+There!+👋;+I'm+Jael!" />
-</a>
+</h1>
 </p>
 <div style="align-items: center;">
     <img align="right"src="https://github.com/Alme24/Alme24/blob/main/Newsfeed.gif" alt="GIF" style="width: 300px; height:180;">
