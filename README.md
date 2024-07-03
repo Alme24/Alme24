@@ -5,21 +5,18 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi,+There!+👋;+I'm+Jael!" />
 </a>
 </p>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align="right"src="https://github.com/Alme24/Alme24/blob/main/Newsfeed.gif" alt="GIF" style="width: 400px; height: 300;">
-    <pre style="width:400px; margin: 0;">
-🏫 I am pursuing a degree in Systems Engineering 
-    at the Mayor de San Simon University. 
-👩‍💻 I'm a Backend Developer, but I am actively 
-    learning Frontend Technologies to transition 
-    into a Fullstack Developer role.
-🔎 I have a keen interest in Quality Assurance 
-    (QA) and value the importance of delivering 
-    high-quality software.
-🌐 I have a passion for web development and 
-    enjoy creating engaging websites.
-🚩 I'm currently learning many things, I 
-    believe that everyday is a learning opportunity.
+<div style="align-items: center;">
+    <img align="right"src="https://github.com/Alme24/Alme24/blob/main/Newsfeed.gif" alt="GIF" style="width: 300px; height:180;">
+    <pre style="width:100px; margin: 0;">
+🏫 I am pursuing a degree in Systems Engineering at the Mayor de San Simon 
+    University. 
+👩‍💻 I'm a Backend Developer, but I am actively learning Frontend Technologies
+    to transition into a Fullstack Developer role.
+🔎 I have a keen interest in Quality Assurance (QA) and value the importance
+    of delivering high-quality software.
+🌐 I have a passion for web development and enjoy creating engaging websites.
+🚩 I'm currently learning many things, I believe thateveryday is a learning
+    opportunity.
     </pre>
    
 </div>
