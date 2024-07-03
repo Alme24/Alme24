@@ -6,14 +6,22 @@
 </a>
 </p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <pre style="width:200px; margin: 0;">
-🏫 I am pursuing a degree in Systems Engineering at the Mayor de San Simon University. 
-👩‍💻 I'm a Backend Developer, but I am actively learning Frontend Technologies to transition into a Fullstack Developer role.
-🔎 I have a keen interest in Quality Assurance (QA) and value the importance of delivering high-quality software.
-🌐 I have a passion for web development and enjoy creating engaging websites.
-🚩 I'm currently learning many things, I believe that everyday is a learning opportunity.
+    <img align="right"src="https://github.com/Alme24/Alme24/blob/main/Newsfeed.gif" alt="GIF" style="width: 400px; height: 300;">
+    <pre style="width:400px; margin: 0;">
+🏫 I am pursuing a degree in Systems Engineering 
+    at the Mayor de San Simon University. 
+👩‍💻 I'm a Backend Developer, but I am actively 
+    learning Frontend Technologies to transition 
+    into a Fullstack Developer role.
+🔎 I have a keen interest in Quality Assurance 
+    (QA) and value the importance of delivering 
+    high-quality software.
+🌐 I have a passion for web development and 
+    enjoy creating engaging websites.
+🚩 I'm currently learning many things, I 
+    believe that everyday is a learning opportunity.
     </pre>
-   <img src="https://github.com/Alme24/Alme24/blob/main/Newsfeed.gif" alt="GIF" style="width: 200px; height: auto;">
+   
 </div>
 <h2 align="center">🛠 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
