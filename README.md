@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/jael-alejandra-avendaño-fernandez-0927b12a9/" target="_blank">
   <img align="center" alt="Jael Avendaño | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+<a href="https://www.instagram.com/alme_aven24/" target="_blank">
   <img align="center" alt="Jael Avendaño | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:jaelaleavendano24@gmail.com" >
